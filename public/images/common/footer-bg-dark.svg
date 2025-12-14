@@ -1,0 +1,16 @@
+<svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink">
+  <rect width="30" height="30" fill="#101010" />
+  <rect width="30" height="30" fill="url(#pattern0_183_707)" fill-opacity="0.5" />
+  <defs>
+    <pattern id="pattern0_183_707" patternUnits="userSpaceOnUse" viewBox="871 1245 30 30"
+      width="100%" height="100%" x="-3.8891" y="-3.88904" patternContentUnits="objectBoundingBox">
+      <g id="pattern0_183_707_inner">
+        <path d="M901 1215L841 1275" stroke="black" stroke-width="11" />
+      </g>
+      <use xlink:href="#pattern0_183_707_inner" transform="translate(30 0)" />
+      <use xlink:href="#pattern0_183_707_inner" transform="translate(0 30)" />
+      <use xlink:href="#pattern0_183_707_inner" transform="translate(30 30)" />
+    </pattern>
+  </defs>
+</svg>

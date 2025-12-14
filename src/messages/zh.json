@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "nfa": {
+      "title": "ChatAndBuild Character Generator",
+      "description": "NFAs: The new asset class for AI agents. Powered by BAP-578, the first BNB Chain application proposal. Own, trade, and evolve intelligent agents."
+    },
+    "landing": {
+      "title": "Non Fungible Agents",
+      "description": "NFAs: The new asset class for AI agents. Powered by BAP-578, the first BNB Chain application proposal. Own, trade, and evolve intelligent agents."
+    },
+    "newsroom": {
+      "title": "Newsroom",
+      "description": "Stay up to date with official updates, announcements, and feature releases from NFA."
+    }
+  },
+  "landing": {
+    "builtOnBnb": "自豪地构建于 <strong>BNB 链上</strong>",
+    "builtOnBnbShort": "建于 <strong>BNB</strong>",
+    "WhitePaper": "白皮书",
+    "Deck": "演示文稿",
+    "NotJustAToken": "不仅仅是代币，更是个性化智能体",
+    "NewTokenStandard": "新代币标准 - BAP578",
+    "AgentFeat0": "个性 + 记忆 + 智能 = 活的NFT",
+    "AgentFeat1": "自带梗点，社区原生",
+    "AgentFeat2": "代币标准，不是代币炒作 - 全栈构建",
+    "JoinWaitlist": "加入等候名单",
+    "ScrollForMore": "向下滚动查看更多",
+    "FollowUsToJoin": "请关注我们，<p>加入等候名单</p>",
+    "FollowXOnTwitter": "在 X/Twitter 上关注 <strong>x</strong>",
+    "JoinOurDiscord": "加入我们的 Discord",
+    "CountMeIn": "我想加入！",
+    "NewStandardForAssets": "资产新标准",
+    "NewStandardForAssetsDesc": "活跃在链上，持续积累价值的智能体",
+    "StandardTitle0": "燃料优化",
+    "StandardDesc0": "节省 80-90% 燃料费用",
+    "StandardTitle1": "跨链兼容",
+    "StandardDesc1": "通过Hyperlane集成，实现 100+ 链路线图",
+    "StandardTitle2": "默克尔树学习智能体",
+    "StandardDesc2": "所有交互与学习指标都可验证，且永久绑定于智能体资产本身",
+    "StandardTitle3": "类 NFT 的资产特性",
+    "StandardDesc3": "可证明的所有权，像代币一样自由交易",
+    "StandardTitle4": "无限记忆，私人定制",
+    "StandardDesc4": "它记住一切，也能随你而变"
+  }
+}

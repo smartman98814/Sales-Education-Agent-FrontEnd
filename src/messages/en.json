@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "nfa": {
+      "title": "ChatAndBuild Character Generator",
+      "description": "NFAs: The new asset class for AI agents. Powered by BAP-578, the first BNB Chain application proposal. Own, trade, and evolve intelligent agents."
+    },
+    "landing": {
+      "title": "Non Fungible Agents",
+      "description": "NFAs: The new asset class for AI agents. Powered by BAP-578, the first BNB Chain application proposal. Own, trade, and evolve intelligent agents."
+    },
+    "newsroom": {
+      "title": "Newsroom",
+      "description": "Stay up to date with official updates, announcements, and feature releases from NFA."
+    }
+  },
+  "landing": {
+    "builtOnBnb": "Proudly built on <strong>BNB Chain</strong>",
+    "builtOnBnbShort": "Built on <strong>BNB</strong>",
+    "WhitePaper": "WhitePaper",
+    "Deck": "Deck",
+    "NotJustAToken": "Not just a token. A persona",
+    "NewTokenStandard": "A new token standard - BAP578",
+    "AgentFeat0": "Persona + memory + intelligence = living NFTs",
+    "AgentFeat1": "Meme-ready and community-native",
+    "AgentFeat2": "Token standard, not just token hype — full stack built",
+    "JoinWaitlist": "Join Waitlist",
+    "ScrollForMore": "Scroll for more",
+    "FollowUsToJoin": "Follow Us <p>to join waitlist</p>",
+    "FollowXOnTwitter": "Follow <strong>x</strong> on X/Twitter",
+    "JoinOurDiscord": "Join our Discord",
+    "CountMeIn": "Count me in!",
+    "NewStandardForAssets": "A NEW STANDARD FOR ASSETS",
+    "NewStandardForAssetsDesc": "AGENTS THAT LIVE AND GROW VALUE ON THE BLOCKCHAIN",
+    "StandardTitle0": "GAS-OPTIMISED",
+    "StandardDesc0": "SAVE 80-90% GAS",
+    "StandardTitle1": "CROSS-CHAIN COMPATIBLE",
+    "StandardDesc1": "100+ CHAIN ROADMAP VIA HYPERLANE INTEGRATION",
+    "StandardTitle2": "MERKLE TREE LEARNING AGENTS",
+    "StandardDesc2": "VERIFIABLE INTERACTIONS AND LEARNING METRICS THAT STAY WITH THE AGENT ASSET",
+    "StandardTitle3": "Nft-like asset features",
+    "StandardDesc3": "provable ownership, tradeable like a token",
+    "StandardTitle4": "UNLIMITED MEMORY, CUSTOMISABLE TO YOU",
+    "StandardDesc4": "IT REMEMBERS EVERYTHING BUT CAN CHANGE ITSELF TO MATCH YOUR NEEDS"
+  }
+}
